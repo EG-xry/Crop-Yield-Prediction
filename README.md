@@ -5,7 +5,7 @@ This repository contains various machine learning models for predicting crop yie
 ## Models Included
 
 - Linear Regression
-- CNN (Convolutional Neural Network)
+- CNN (Convolutional Neural Network) *Not Included in Model Comparison
 - Decision Tree
 - Random Forest
 - KNN (K-Nearest Neighbors)
@@ -13,3 +13,6 @@ This repository contains various machine learning models for predicting crop yie
 - Boosting
 
 ## Project Structure
+
+=======
+Crop Yield Prediction using Machine Learning Algorithms
