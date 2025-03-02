@@ -19,7 +19,9 @@ Check out notes taken, papers related to the problem, and a more in-depth overvi
 ## Data Availability 
 
 The original dataset can be found here: https://www.kaggle.com/datasets/patelris/crop-yield-prediction-dataset
+
 All datasets (publicly available datasets) here are taken from FAO (Food and Agriculture Organization) and World Data Bank.
+
 http://www.fao.org/home/en/
 https://data.worldbank.org/
 
