@@ -12,7 +12,8 @@ Average Rainfall (mm): 534.0
 Pesticides used per tonne: 45177.18
 Average Temperature (°C): 17.4
 Area Yield (hg/ha): Unknown
-
+Check out specifics in the pdf of the presentation given `ML_CropYield_Presentation.pdf`
+Check out notes taken, papers related to the problem, and a more in-depth overview of the problem from `ML_CropYield_Notes.docx` 
 ## Data Availability 
 
 The original dataset can be found here: https://www.kaggle.com/datasets/patelris/crop-yield-prediction-dataset
