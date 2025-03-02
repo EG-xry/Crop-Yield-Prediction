@@ -46,9 +46,12 @@ This repository contains various machine-learning models for predicting crop yie
 `SVM.py` Single Vector Machine
 
 ## Results
-`Result.py` Evaluates the result of all the machine learning algorithm under three metrics 
+`Result.py` Evaluates the result of all the machine learning algorithm under three metrics
+
 r^2 (Coefficient of determination), `r^2.png`: the proportion of variance in crop yield that can be explained by the independent variable(s)
+
 Prediciton Specific |Error|, `ScenarioSpecific_Pred.png`: absolute value difference between the predicted yield by the machine learning algorithm and the actual yield
+
 Theoretical, `Theoretical.png`: Theoretical limits the machine learning algorithms can reach with optimal tuning and allowed maximal run time
 
 Overall, based on the three metrics, the ranking for the algorithms for this specific study is as follows:
