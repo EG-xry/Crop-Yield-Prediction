@@ -23,4 +23,4 @@ This repository contains various machine-learning models for predicting crop yie
 
 ## Project Structure
 
-*info.py* produces the graphs
+`info.py` produces the graphs
